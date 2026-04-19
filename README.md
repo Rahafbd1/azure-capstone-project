@@ -1,4 +1,4 @@
-# Azure Capstone Project
+# Azure Project
 
 ## Overview
 This project demonstrates a secure cloud infrastructure deployed on Microsoft Azure.
